@@ -14,7 +14,7 @@ background-image: "/css/2019_style/img/hufs.jpg"
 
 social: 
   name: IOL 2019 Facebook
-  link: "https://www.facebook.com/iol2019"
+  link: "https://www.facebook.com/international-linguistics-olympiad"
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
@@ -27,9 +27,9 @@ gems:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-    url: https://www.facebook.com/iol2019
+    url: https://www.facebook.com/international-linguistics-olympiad
   - title: twitter
-    url: https://twitter.com/iol2019
+    url: https://twitter.com/IOLingOfficial
   - title: envelope
     url: mailto:iol2019@krlo.kr
 
