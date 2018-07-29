@@ -1,0 +1,10 @@
+---
+title: Republic of Korea
+name: Republic of Korea
+subtitle: Korea 1, Korea 2
+layout: 2019_default
+img: republic-of-korea.png
+thumbnail: republic-of-korea.png
+alt: To be determined
+description: Info 1
+---

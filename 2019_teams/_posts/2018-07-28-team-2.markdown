@@ -1,10 +1,10 @@
 ---
-title: Name
-name: Name 1
-subtitle: Position
+title: TBD
+name: Name 2
+subtitle: TBD
 layout: 2019_default
 img: TBS.jpg
 thumbnail: TBD.jpg
-alt: Picture of Name
+alt: To be determined
 description: Info 1
 ---
