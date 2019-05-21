@@ -1,0 +1,10 @@
+---
+title: USA
+name: USA
+subtitle: Team USA 1, Team USA 2
+layout: 2019_default
+img: us.png
+thumbnail: us.png
+alt: To be determined
+description: Info 1
+---

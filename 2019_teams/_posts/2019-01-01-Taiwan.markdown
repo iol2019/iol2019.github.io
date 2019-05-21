@@ -1,0 +1,10 @@
+---
+title: Taiwan
+name: Taiwan
+subtitle: Team Taiwan 1, Team Taiwan 2
+layout: 2019_default
+img: tw.png
+thumbnail: tw.png
+alt: To be determined
+description: Info 1
+---

@@ -1,0 +1,10 @@
+---
+title: Turkey
+name: Turkey
+subtitle: Team Turkey
+layout: 2019_default
+img: tr.png
+thumbnail: tr.png
+alt: To be determined
+description: Info 1
+---

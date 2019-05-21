@@ -1,0 +1,10 @@
+---
+title: Sweden
+name: Sweden
+subtitle: Team Sweden 1, Team Sweden 2
+layout: 2019_default
+img: se.png
+thumbnail: se.png
+alt: To be determined
+description: Info 1
+---

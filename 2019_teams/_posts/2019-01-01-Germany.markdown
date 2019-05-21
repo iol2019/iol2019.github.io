@@ -1,0 +1,10 @@
+---
+title: Germany
+name: Germany
+subtitle: Team Germany
+layout: 2019_default
+img: de.png
+thumbnail: de.png
+alt: To be determined
+description: Info 1
+---

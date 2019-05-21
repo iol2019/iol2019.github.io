@@ -1,0 +1,10 @@
+---
+title: Malaysia
+name: Malaysia
+subtitle: Team Malaysia 1, Team Malaysia 2
+layout: 2019_default
+img: my.png
+thumbnail: my.png
+alt: To be determined
+description: Info 1
+---

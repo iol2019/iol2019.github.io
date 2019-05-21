@@ -1,0 +1,10 @@
+---
+title: Romania
+name: Japan
+subtitle: Team Romania
+layout: 2019_default
+img: ro.png
+thumbnail: ro.png
+alt: To be determined
+description: Info 1
+---

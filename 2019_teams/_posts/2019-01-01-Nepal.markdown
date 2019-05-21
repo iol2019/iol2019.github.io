@@ -1,0 +1,10 @@
+---
+title: Nepal
+name: Nepal
+subtitle: Team Nepal
+layout: 2019_default
+img: np-2.png
+thumbnail: np-2.png
+alt: To be determined
+description: Info 1
+---

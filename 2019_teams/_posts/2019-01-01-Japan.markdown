@@ -1,0 +1,10 @@
+---
+title: Japan
+name: Japan
+subtitle: Team Japan 1, Team Japan 2
+layout: 2019_default
+img: jp.png
+thumbnail: jp.png
+alt: To be determined
+description: Info 1
+---

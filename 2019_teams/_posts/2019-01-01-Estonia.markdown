@@ -1,0 +1,10 @@
+---
+title: Estonia
+name: Estonia
+subtitle: Team Estonia
+layout: 2019_default
+img: ee.png
+thumbnail: ee.png
+alt: To be determined
+description: Info 1
+---

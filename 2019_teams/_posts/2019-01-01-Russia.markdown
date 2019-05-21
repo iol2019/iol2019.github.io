@@ -1,0 +1,10 @@
+---
+title: Russia
+name: Russia
+subtitle: Team Russia 1, Team Russia 2
+layout: 2019_default
+img: ru.png
+thumbnail: ru.png
+alt: To be determined
+description: Info 1
+---

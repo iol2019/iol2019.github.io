@@ -1,0 +1,10 @@
+---
+title: India
+name: India
+subtitle: Team India
+layout: 2019_default
+img: in.png
+thumbnail: in.png
+alt: To be determined
+description: Info 1
+---

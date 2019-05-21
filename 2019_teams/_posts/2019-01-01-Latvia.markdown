@@ -1,0 +1,10 @@
+---
+title: Latvia
+name: Latvia
+subtitle: Team Latvia
+layout: 2019_default
+img: lv.png
+thumbnail: lv.png
+alt: To be determined
+description: Info 1
+---

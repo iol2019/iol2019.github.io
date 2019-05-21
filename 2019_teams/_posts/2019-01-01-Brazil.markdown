@@ -1,0 +1,10 @@
+---
+title: Brazil
+name: Brazil
+subtitle: Team Brazil 1, Team Brazil 2
+layout: 2019_default
+img: br.png
+thumbnail: br.png
+alt: To be determined
+description: Info 1
+---

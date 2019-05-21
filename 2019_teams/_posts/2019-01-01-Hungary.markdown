@@ -1,0 +1,10 @@
+---
+title: Hungary
+name: Hungary
+subtitle: Team Hungary 1, Team Hungary 2
+layout: 2019_default
+img: hu.png
+thumbnail: hu.png
+alt: To be determined
+description: Info 1
+---

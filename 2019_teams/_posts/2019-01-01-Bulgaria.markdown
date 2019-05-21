@@ -1,0 +1,10 @@
+---
+title: Bulgaria
+name: Bulgaria
+subtitle: Team Bulgaria 1, Team Bulgaria 2
+layout: 2019_default
+img: bg.png
+thumbnail: bg.png
+alt: To be determined
+description: Info 1
+---

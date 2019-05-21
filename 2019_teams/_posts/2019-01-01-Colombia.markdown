@@ -1,0 +1,10 @@
+---
+title: Colombia
+name: Colombia
+subtitle: Team Colombia
+layout: 2019_default
+img: co.png
+thumbnail: co.png
+alt: To be determined
+description: Info 1
+---

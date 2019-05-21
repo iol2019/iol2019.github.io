@@ -1,0 +1,10 @@
+---
+title: Czechia
+name: Czechia
+subtitle: Team Czechia
+layout: 2019_default
+img: cz.png
+thumbnail: cz.png
+alt: To be determined
+description: Info 1
+---

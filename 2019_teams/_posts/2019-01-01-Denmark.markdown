@@ -1,0 +1,10 @@
+---
+title: Denmark
+name: Denmark
+subtitle: Team Denmark
+layout: 2019_default
+img: dk.png
+thumbnail: dk.png
+alt: To be determined
+description: Info 1
+---

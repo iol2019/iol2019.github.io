@@ -1,0 +1,10 @@
+---
+title: Slovenia
+name: Slovenia
+subtitle: Team Slovenia
+layout: 2019_default
+img: si.png
+thumbnail: si.png
+alt: To be determined
+description: Info 1
+---

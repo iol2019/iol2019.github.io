@@ -1,0 +1,10 @@
+---
+title: China
+name: China
+subtitle: Team China 1, Team China 2
+layout: 2019_default
+img: cn.png
+thumbnail: cn.png
+alt: To be determined
+description: Info 1
+---

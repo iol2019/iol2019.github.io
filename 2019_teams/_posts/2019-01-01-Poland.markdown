@@ -1,0 +1,10 @@
+---
+title: Poland
+name: Poland
+subtitle: Team Poland 1, Team Poland 2
+layout: 2019_default
+img: pl.png
+thumbnail: pl.png
+alt: To be determined
+description: Info 1
+---
