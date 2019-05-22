@@ -3,8 +3,8 @@ title: Ireland
 name: Ireland
 subtitle: Team Ireland
 layout: 2019_default
-img: ir.png
-thumbnail: ir.png
+img: ie.png
+thumbnail: ie.png
 alt: To be determined
 description: Info 1
 ---
