@@ -1,6 +1,6 @@
 ---
 title: Isle of Man
-name: Isle of Man
+name: Isle_of_Man
 subtitle: Team Isle of Man
 layout: 2019_default
 img: im.png

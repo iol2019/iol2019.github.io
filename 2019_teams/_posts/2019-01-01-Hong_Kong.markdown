@@ -1,6 +1,6 @@
 ---
 title: Hong Kong
-name: Hong Kong
+name: Hong_Kong
 subtitle: Team Hong Kong 1, Team Hong Kong 2
 layout: 2019_default
 img: hk.png

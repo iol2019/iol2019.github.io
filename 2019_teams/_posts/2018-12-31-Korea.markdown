@@ -1,6 +1,6 @@
 ---
 title: Republic of Korea
-name: Republic of Korea
+name: Republic_of_Korea
 subtitle: Team Korea 1, Team Korea 2, and Team Korea 3 (non-competing)
 layout: 2019_default
 img: kr.png

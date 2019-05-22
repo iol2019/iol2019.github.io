@@ -1,6 +1,6 @@
 ---
 title: United Kingdom
-name: United Kingdom
+name: United_Kingdom
 subtitle: Team UK 1, Team UK 2
 layout: 2019_default
 img: gb.png

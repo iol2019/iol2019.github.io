@@ -1,6 +1,6 @@
 ---
 title: Romania
-name: Japan
+name: Romania
 subtitle: Team Romania
 layout: 2019_default
 img: ro.png
