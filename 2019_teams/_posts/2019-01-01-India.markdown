@@ -1,7 +1,7 @@
 ---
 title: India
 name: India
-subtitle: Team India
+subtitle: Team India 1, Team India 2
 layout: 2019_default
 img: in.png
 thumbnail: in.png
