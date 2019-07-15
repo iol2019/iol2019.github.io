@@ -1,7 +1,7 @@
 ---
 title: Hong Kong
 name: Hong_Kong
-subtitle: Team Hong Kong 1, Team Hong Kong 2
+subtitle: Team Hong Kong Logicians, Team Hong Kong MACK & Cheese
 layout: 2019_default
 img: hk.png
 thumbnail: hk.png
