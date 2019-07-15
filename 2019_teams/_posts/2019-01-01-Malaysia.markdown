@@ -5,6 +5,20 @@ subtitle: Team Malaysia 1, Team Malaysia 2
 layout: 2019_default
 img: my.png
 thumbnail: my.png
-alt: To be determined
-description: Info 1
 ---
+
+#### Team Leaders
+* Khairul Anwar Bin Mohamad Zaki
+* Nur Ruqqaya Binti Mohd Fuad
+
+#### Team Malaysia A
+* Jing Kai Ong
+* Zi Song Yeoh
+* Zhe Ren Ooi
+* Jun Xing Go
+
+#### Team Malaysia B
+* Heyang Ong
+* Ci Hui Lee
+* Jer Ren Wong
+* Nur Fatin Najihah Binti Ruslan

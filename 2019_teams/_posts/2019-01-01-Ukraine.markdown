@@ -5,6 +5,16 @@ subtitle: Team Ukraine
 layout: 2019_default
 img: ua.png
 thumbnail: ua.png
-alt: To be determined
-description: Info 1
 ---
+
+#### Team Leaders
+* Tamila Krashtan
+
+#### Team Ukraine
+* Artemii Molyboha
+* Yelyzaveta Stoliarchuk
+* Vlada Petrusenko
+* Daria Kryvosheieva
+
+#### Observers
+* Valiantsina Valevich

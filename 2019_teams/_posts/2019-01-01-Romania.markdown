@@ -5,6 +5,14 @@ subtitle: Team Romania
 layout: 2019_default
 img: ro.png
 thumbnail: ro.png
-alt: To be determined
-description: Info 1
 ---
+
+#### Team Leaders
+* Roxana Magdalena Preda
+* Valentina Cojocaru
+
+#### Team Romania
+* Ilinca-Dora Andone
+* Luiza-Natalia Ionescu
+* Eric-Alexandru Morosan
+* Matei-Costin Banu

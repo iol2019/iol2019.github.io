@@ -1,10 +1,24 @@
 ---
 title: Poland
 name: Poland
-subtitle: Team Poland 1, Team Poland 2
+subtitle: Team Poland Bóbr, Team Poland Żubr
 layout: 2019_default
 img: pl.png
 thumbnail: pl.png
-alt: To be determined
-description: Info 1
 ---
+
+#### Team Leaders
+* Michał Śliwiński
+* Tomasz Skalski
+
+#### Team Poland Bóbr
+* Izabela Znój
+* Martyna Szymańska
+* Stanisław Sochacki
+* Mateusz Winiarski
+
+#### Team Poland Żubr
+* Alicja Maksymiuk
+* Diego Król
+* Mikołaj Walicki
+* Krzysztof Olejniczak

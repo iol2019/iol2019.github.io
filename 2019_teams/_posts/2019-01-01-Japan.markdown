@@ -1,10 +1,26 @@
 ---
 title: Japan
 name: Japan
-subtitle: Team Japan 1, Team Japan 2
+subtitle: Team Japan Ninja, Team Japan Samurai
 layout: 2019_default
 img: jp.png
 thumbnail: jp.png
-alt: To be determined
-description: Info 1
 ---
+
+#### Team Leaders
+* Zyun Iida
+
+#### Team Japan Ninja
+* Takumi Yoshino
+* Tsubasa Takahashi
+* Takumi Ose
+* Sota Yazawa
+
+#### Team Japan Samurai
+* Kazune Sato
+* Rion Morinishi
+* Rino Hara
+* Reona Kubomiya
+
+#### Observers
+* Tsuyoshi Kobayashi

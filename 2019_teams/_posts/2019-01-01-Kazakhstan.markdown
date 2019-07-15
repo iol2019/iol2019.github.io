@@ -5,6 +5,13 @@ subtitle: Team Kazakhstan
 layout: 2019_default
 img: kz.png
 thumbnail: kz.png
-alt: To be determined
-description: Info 1
 ---
+
+#### Team Leaders
+* Anton Vassilyev
+
+#### Team Kazakhstan
+* Dana Ospanova
+* Yerdos Zhanpeissov
+* Aksultan Aitkozhin
+* Arman Alibekov

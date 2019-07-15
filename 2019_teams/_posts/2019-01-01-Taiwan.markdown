@@ -1,10 +1,30 @@
 ---
 title: Taiwan
 name: Taiwan
-subtitle: Team Taiwan 1, Team Taiwan 2
+subtitle: Team Taiwan TaiEight, Team Taiwan TaiNine
 layout: 2019_default
 img: tw.png
 thumbnail: tw.png
-alt: To be determined
-description: Info 1
 ---
+
+#### Team Leaders
+* Hsieh, Shu-Kai
+* Rau Ho, Der-Hwa
+
+#### Team TaiEight
+* Lin, You-Kuan
+* Lin, Hsin-Yi
+* Chen, Jun-Wei
+* Chen, Po-Wen
+
+#### Team TaiNine
+* Wang, Chih-Chun
+* Peng, Kai-Yang
+* Lee, Yu-Hsuan
+* Lin, Siang-Chen
+
+#### Observers
+* Chiang, Chiung-Yu
+* Gerald Allan Rau
+* Yao, Yung-Jui
+* Huang, Shen-Chang

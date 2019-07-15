@@ -5,6 +5,13 @@ subtitle: Team Estonia
 layout: 2019_default
 img: ee.png
 thumbnail: ee.png
-alt: To be determined
-description: Info 1
 ---
+
+#### Team Leaders
+* Linda Freienthal
+
+#### Team Estonia
+* Roosmari Pihlak
+* Ove Üllar Viesemann
+* Anna Talas
+* Hant Mikit Kolk

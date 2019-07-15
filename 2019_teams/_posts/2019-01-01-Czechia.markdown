@@ -5,6 +5,16 @@ subtitle: Team Czechia
 layout: 2019_default
 img: cz.png
 thumbnail: cz.png
-alt: To be determined
-description: Info 1
 ---
+
+#### Team Leaders
+* Michaela Svatošová
+
+#### Team Czechia
+* Vít Metka
+* Jakub Petr
+* Michal Jireš
+* Vanda Fousková
+
+#### Observers
+* Jan Petr

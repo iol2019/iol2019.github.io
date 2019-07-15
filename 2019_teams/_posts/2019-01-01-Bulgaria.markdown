@@ -5,6 +5,24 @@ subtitle: Team Bulgaria 1, Team Bulgaria 2
 layout: 2019_default
 img: bg.png
 thumbnail: bg.png
-alt: To be determined
-description: Info 1
 ---
+
+#### Team Leaders
+* Aleksandar Velinov
+* Iliyana Raeva
+* Lubomir Zlatkov
+
+#### Team Bulgaria 1
+* Tsvetelina Stefanova
+* Viktor Baltin
+* Zdravko Ivanov
+* Elena Keskinova
+
+#### Team Bulgaria 2
+* Matey Petkov
+* Nicole Obretincheva
+* Marko Ivanov
+* Yoan Salambashev
+
+#### Observers
+* Rositsa Dekova

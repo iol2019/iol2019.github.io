@@ -1,10 +1,24 @@
 ---
 title: Brazil
 name: Brazil
-subtitle: Team Brazil 1, Team Brazil 2
+subtitle: Team Brazil Nhorõwa, Team Brazil Nhũrkwã
 layout: 2019_default
 img: br.png
 thumbnail: br.png
-alt: To be determined
-description: Info 1
 ---
+
+#### Team Leaders
+* Roger Antunes
+* Renata Camargo
+
+#### Team Brazil Nhorõwa
+* Antonio Azevedo
+* João Henrique Fontes
+* Sandy Gui
+* Gustavo Palote
+
+#### Team Brazil Nhũrkwã
+* Julia Ramos
+* Pedro Leão
+* Gustavo Baracat
+* Vinícius Peixoto

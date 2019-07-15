@@ -1,10 +1,24 @@
 ---
 title: China
 name: China
-subtitle: Team China 1, Team China 2
+subtitle: Team China QIAN, Team China KUN
 layout: 2019_default
 img: cn.png
 thumbnail: cn.png
-alt: To be determined
-description: Info 1
 ---
+
+#### Team Leaders
+* Yili
+* Zhao Chen
+
+#### Team China QIAN
+* Chenjun Wei
+* Haokun Wu
+* Ruijia Li
+* Yuzhe Shi
+
+#### Team China KUN
+* Xinyi Yuan
+* Lanruo Xie
+* Jinru Bai
+* Hongzhe Du

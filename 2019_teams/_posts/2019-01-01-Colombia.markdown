@@ -5,6 +5,16 @@ subtitle: Team Colombia
 layout: 2019_default
 img: co.png
 thumbnail: co.png
-alt: To be determined
-description: Info 1
 ---
+
+#### Team Leaders
+* George Dueñas
+
+#### Team Colombia
+* Isabella Mijares
+* Francesco Murande
+* Leonardo Vargas
+* Laura Sofia Jamaica
+
+#### Observers
+* Maria Losada

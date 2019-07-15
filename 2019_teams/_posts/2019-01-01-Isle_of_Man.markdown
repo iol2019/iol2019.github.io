@@ -5,6 +5,16 @@ subtitle: Team Isle of Man
 layout: 2019_default
 img: im.png
 thumbnail: im.png
-alt: To be determined
-description: Info 1
 ---
+
+#### Team Leaders
+* Rob Teare
+
+#### Team Isle of Man
+* Asia Hall
+* Emily Gray
+* Nathan Harmer
+* Alex Reece
+
+#### Observers
+* Erin McNulty

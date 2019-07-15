@@ -5,6 +5,14 @@ subtitle: Team Germany
 layout: 2019_default
 img: de.png
 thumbnail: de.png
-alt: To be determined
-description: Info 1
 ---
+
+#### Team Leaders
+* André Meinunger
+* Nathalie Topaj
+
+#### Team Germany
+* Maja Sellmer
+* Santina Kemper
+* Michał Boroń
+* Jacqueline Guitu

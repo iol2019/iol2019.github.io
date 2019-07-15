@@ -1,10 +1,27 @@
 ---
 title: Hungary
 name: Hungary
-subtitle: Team Hungary 1, Team Hungary 2
+subtitle: Team Hungary Teniszütő, Team Hungary Uborka
 layout: 2019_default
 img: hu.png
 thumbnail: hu.png
-alt: To be determined
-description: Info 1
 ---
+
+#### Team Leaders
+* Tímár Veronika
+* Egressy János
+
+#### Team Hungary Teniszütő
+* Árvay-Vass Iván
+* Egyházi Hanna
+* Kövér Blanka
+* Blaskovics Ákos
+
+#### Team Hungary Uborka
+* Vári-Kakas Andor
+* Alexy Milán
+* Urszuly Csenge
+* Dobák Dániel
+
+#### Observers
+* Mazzag Bálint

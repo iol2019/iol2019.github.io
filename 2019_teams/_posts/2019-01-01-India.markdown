@@ -1,10 +1,27 @@
 ---
 title: India
 name: India
-subtitle: Team India 1, Team India 2
+subtitle: Team India Saffron, Team India Green
 layout: 2019_default
 img: in.png
 thumbnail: in.png
-alt: To be determined
-description: Info 1
 ---
+
+#### Team Leaders
+* Monojit Choudhury
+* Saujas Srinivasa Vaduguru
+
+#### Team India Saffron
+* Aparna Ajit Gupte
+* Angikar Ghosal
+* Niveditha Subramanyam Iyer
+* Ishan Ganguly
+
+#### Team India Green
+* Sourabh Raj Jaiswal
+* Jaisal Kothari
+* Antara Raaghavi Bhattacharya
+* Shashwat Goel
+
+#### Observers
+* Gayathri Subramanyam Iyer

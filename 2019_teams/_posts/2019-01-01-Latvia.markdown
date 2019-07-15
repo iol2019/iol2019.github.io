@@ -5,6 +5,17 @@ subtitle: Team Latvia
 layout: 2019_default
 img: lv.png
 thumbnail: lv.png
-alt: To be determined
-description: Info 1
 ---
+
+#### Team Leaders
+* Vladimirs Ļitvinskis
+
+#### Team Latvia
+* Viesturs Jūlijs Lasmanis
+* Arkādijs Šaldovs
+* Nestors Starostins
+* Džonatans Miks Melgalvis
+
+#### Observers
+* Ata Krūmiņa
+* Guntars Dreijers

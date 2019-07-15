@@ -5,6 +5,16 @@ subtitle: Team Canada Anglophone
 layout: 2019_default
 img: ca.png
 thumbnail: ca.png
-alt: To be determined
-description: Info 1
 ---
+
+#### Team Leaders
+* Patrick Littell
+
+#### Team Canada Anglophone
+* Nathan Kim
+* Ken Jiang
+* Max Jiang
+* Zed Li
+
+#### Observers
+* Si Li

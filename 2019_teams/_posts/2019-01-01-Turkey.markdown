@@ -5,6 +5,13 @@ subtitle: Team Turkey
 layout: 2019_default
 img: tr.png
 thumbnail: tr.png
-alt: To be determined
-description: Info 1
 ---
+
+#### Team Leaders
+* Şule Soydemir
+
+#### Team Turkey
+* Ata Göloğlu
+* Kaan Gözütok
+* İsmail Yaşar Kökçüler
+* Denice Nicole Basmacıer

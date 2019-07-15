@@ -5,6 +5,13 @@ subtitle: Team Finland
 layout: 2019_default
 img: fi.png
 thumbnail: fi.png
-alt: To be determined
-description: Info 1
 ---
+
+#### Team Leaders
+* Heini Arjava
+
+#### Team Finland
+* Tia Iskanius
+* Alma Jyränki
+* Nerissa Shakespeare
+* Xuefei Wu

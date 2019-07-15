@@ -1,10 +1,24 @@
 ---
 title: Sweden
 name: Sweden
-subtitle: Team Sweden 1, Team Sweden 2
+subtitle: Team Sweden Gul, Team Sweden Blå
 layout: 2019_default
 img: se.png
 thumbnail: se.png
-alt: To be determined
-description: Info 1
 ---
+
+#### Team Leaders
+* Amanda Kann
+* Åke Wettergren
+
+#### Team Sweden Gul
+* Joakim Colpier
+* Fredrik Ekholm
+* Anna-Lisa Rathsman
+* Nathan Carlshamre
+
+#### Team Sweden Blå
+* Carl Westerlund
+* Joel Redner
+* Martin Löfström
+* Hektor Einarsson

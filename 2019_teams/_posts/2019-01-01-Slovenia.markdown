@@ -5,6 +5,13 @@ subtitle: Team Slovenia
 layout: 2019_default
 img: si.png
 thumbnail: si.png
-alt: To be determined
-description: Info 1
 ---
+
+#### Team Leaders
+* Simona Klemencic
+
+#### Team Slovenia
+* Rok Tadej Brunsek
+* Ana Meta Dolinar
+* Ana Luetic
+* Sebastjan Kordis

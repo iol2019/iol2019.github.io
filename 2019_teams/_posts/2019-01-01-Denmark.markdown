@@ -5,6 +5,13 @@ subtitle: Team Denmark
 layout: 2019_default
 img: dk.png
 thumbnail: dk.png
-alt: To be determined
-description: Info 1
 ---
+
+#### Team Leaders
+* Laurits Stapput Knudsen
+
+#### Team Denmark
+* Silje Emilie Glyrskov
+* Kristian Katholm Nielsen
+* Isabella Fink-Jensen
+* Freja Jensen

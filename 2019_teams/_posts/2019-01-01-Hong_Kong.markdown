@@ -5,6 +5,20 @@ subtitle: Team Hong Kong 1, Team Hong Kong 2
 layout: 2019_default
 img: hk.png
 thumbnail: hk.png
-alt: To be determined
-description: Info 1
 ---
+
+#### Team Leaders
+* Xin Luo
+* Xuefeng Gao
+
+#### Team Hong Kong Logicians
+* Audrey Yuen
+* Chia Yu Joy Chi
+* Sun-Yu Gordon Chi
+* Hiu Wa Melody Lo
+
+#### Team Hong Kong MACK & Cheese
+* Cheuk Wai Ma
+* Ho Shan Moses Lee
+* Yin Lam Ho
+* Aujin Kim

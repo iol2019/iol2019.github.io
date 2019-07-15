@@ -1,10 +1,31 @@
 ---
 title: USA
 name: USA
-subtitle: Team USA 1, Team USA 2
+subtitle: Team USA Red, Team USA Blue
 layout: 2019_default
 img: us.png
 thumbnail: us.png
-alt: To be determined
-description: Info 1
 ---
+
+#### Team Leaders
+* Drago Radev
+* Aleka Blackwell
+* Lori Levin
+
+#### Team USA Red
+* Wesley Zhang
+* Russell Emerine
+* Ziyan Lei
+* Andrew Tockman
+
+#### Team USA Blue
+* Pranav Krishna
+* Katherine He
+* Jeremy Zhou
+* Skyelar Raiti
+
+#### Observers
+* Suzanne Loosen
+* Jeffrey Heinz
+* Laura Radev
+* Fraser Weist
