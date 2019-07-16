@@ -21,4 +21,4 @@ thumbnail: gb.png
 * Tommaso Leonardi
 * Simeon Hellsten
 * Daniel Turaev
-* Benedict Randall S
+* Benedict Randall Shaw
