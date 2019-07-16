@@ -10,6 +10,7 @@ thumbnail: hu.png
 #### Team Leaders
 * Tímár Veronika
 * Egressy János
+* Mazzag Bálint
 
 #### Team Hungary Teniszütő
 * Árvay-Vass Iván
@@ -22,6 +23,3 @@ thumbnail: hu.png
 * Alexy Milán
 * Urszuly Csenge
 * Dobák Dániel
-
-#### Observers
-* Mazzag Bálint
