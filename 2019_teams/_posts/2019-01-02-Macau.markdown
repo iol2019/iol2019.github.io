@@ -1,0 +1,14 @@
+---
+title: Macau
+name: Macau
+subtitle: Team Macau
+layout: 2019_default
+img: mo.png
+thumbnail: mo.png
+---
+
+#### Team Leaders
+* Sheng, Ming
+
+#### Team Macau
+* Sheng, Jiayuan
